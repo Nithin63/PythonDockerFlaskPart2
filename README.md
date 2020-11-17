@@ -4,5 +4,5 @@
  Pycharm setup with Docker, Flask and MySQL. 
 
 ## Screenshots
-* [Table Query](/Screenshot/query.png)
-* [Post man](/Screenshot/postman.png)
+* [Query](/Screenshot/query.png)
+* [Postman](/Screenshot/postman.png)
